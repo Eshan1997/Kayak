@@ -1,0 +1,10 @@
+
+G
+java:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(áÆ•şÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í÷å
+m
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ
+L
+java:S2696
+"6Make the enclosing method "static" or remove this set.(Î°¸ó
